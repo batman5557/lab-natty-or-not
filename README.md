@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto Extremamente Aesthetic ;)
+ Descrição
+Este projeto explora o uso de Inteligências Artificiais Generativas para criar conteúdos que desafiam os limites do realismo digital. O objetivo é demonstrar como essas tecnologias podem ser usadas para produzir textos, imagens, áudios e vídeos que se aproximam do real.
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Tecnologias Utilizadas
+GPT-3: Utilizado para gerar textos realistas e criativos.
+DALL-E: Usado para criar imagens que parecem fotografias reais.
+Descript: Ferramenta para edição e geração de áudios.
+Synthesia: Utilizada para criar vídeos com avatares digitais.
+ Processo de Criação
+Planejamento: Defini os tipos de conteúdo que queria criar e escolhi as ferramentas de IA mais adequadas para cada tarefa.
+Geração de Conteúdo:
+Usei o GPT-3 para escrever histórias e descrições detalhadas.
+Com o DALL-E, criei imagens baseadas nas descrições geradas.
+Editei e gerei áudios com o Descript para adicionar narrações e efeitos sonoros.
+Criei vídeos com avatares digitais usando o Synthesia, baseados nos textos e áudios gerados.
+Refinamento: Ajustei e refinei os conteúdos gerados para garantir que fossem o mais realista possível.
+🚀 Resultados
+Textos: Histórias e descrições que parecem ter sido escritas por humanos.
+Imagens: Fotografias digitais que capturam a essência do realismo.
+Áudios: Narrações e efeitos sonoros que complementam os textos e imagens.
+Vídeos: Apresentações visuais com avatares digitais que interagem de forma natural.
